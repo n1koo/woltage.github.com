@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: post
 title: Irssi ConnectBot - Kun softa lähtee käsistä
 ---
 Irkkaaminen mobiililaitteella on aina ollut hankalaa varsinkin jos käytössä on Irssi ja SSH-yhteys. Itse käytin iPhonessa monenlaisia terminaaliohjelmia SSH-yhteyden muodostamiseksi, mutta kaikki toimivat yhtä heikosti.
@@ -22,4 +22,4 @@ Irssi ConnectBotin piti aluksi olla pelkästään omaan käyttööni tarkoitettu
 
 Tällä hetkellä Irssi ConnectBotilla on yli 23 000 aktiivista käyttäjää ja melkein 55 000 asennusta. Irssi ConnectBot lähti käsistäni totaalisesti ja hommassa on ollut auttajia useita. Erityisesti kiitokset menevät Jonne Backhausille, Timo Reunaselle, Ville Kermiselle ja Jani Penttiselle. Kiitoksia, kun olette olleet mukana kehittämässä mobiilisen Irssin vallankumousta.
 
-![center](http://f.cl.ly/items/060z0I0V2C1B2I3E313a/Screen%20Shot%202011-11-24%20at%2022.30.04.png)	
+![center](http://f.cl.ly/items/060z0I0V2C1B2I3E313a/Screen%20Shot%202011-11-24%20at%2022.30.04.png)

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Yrittäjyys - miten se muutti elämäni
+---
+Tänään on se päivä, kun lopetan lähes 12 vuotta kestäneen liiketoiminta-alueen. Kaikki sai alkunsa, kun olin 15 vuotias nuorimies. Toteutimme muutaman kaverin kanssa verkkosivuja huvikseen eri yhteisöille (pääsääntöisesti peli). Idea lähti jalostumaan pikkuhiljaa ja joku heitti vitsillä: “Jätkä meinaa varmaan laittaa sitten yrityksenkin pystyyn *haha*”. Juuri 16 vuotta täyttäneen angstilla totesin: “No vittu, yksi semmonen sitten”. Siitä sai alkuunsa ensimmäinen yritykseni. Nuoren miehen angstista.
+
+Olin muutamia vuosia aikaisemmin alkanut leikkimään Linuxin kanssa. Kaikki alkoi tietokonepeleistä ja lähinnä IRC:stä. Oli tarve olla paikalla koko ajan, siihen tarvittiin jokin IRC-asiakasohjelma, joka pyörisi ulkopuolisella palvelimella. Palvelimeen otettiin tarvittaessa yhteyttä, mutta ohjelma pyöri muuten palvelimen taustalla. IRC oli tuohon aikaa todella suosittu, eikä silloin tunnettu vielä mitään Facebookia tai Googlen Hangoutsia. ICQ oli kuuminta hottia. Jossain kohtaa alkoi haaveilu omasta palvelimesta, josta voisin tarjota kavereille oikeuden käyttää myös IRC:iä.
+
+Palvelin kasattiin vanhoista kierrätysosista ja normaalista pöytäkoneen raudasta. Ei silloin nuorena ollut varaa mihinkään kalliisiin komponentteihin. Kohtuu vakaaksi se kuitenkin saatiin harrastelupalvelimeksi. Palvelin oli tuolloin kaverin isän ADSL:n perässä ja olihan aika jännää aikaa. Tarkkaa syytä en muista, mutta sitten kuitenkin jouduttiin palvelin siirtämään Kotisivut.com:n tiloihin. Tällöin palvelinpuoli siirtyi myös yritykseni alle. Nyt piti tehdä profittia. Ei riittänyt enää, että kaverit hengailivat palvelimella.
+
+Muistaakseni noihin aikoihin kuitenkin toinen yritys lopetti toimintansa ja tarjosimme vanhoille asiakkaille avajaistarjousta. Saimme yhtäkkiä noin 100-130 asiakasta. Se oli hullua aikaa. Olin juuri aloittanut lukion ja yöt meni uusien asioiden opiskelussa, koska aikaisempaa kokemusta ei ollut Linuxin ylläpidosta. Asuntolassa ei ollut minkäänlaista Internet-yhteyttä, joten jouduin käyttämään juuri ilmestynyttä GPRS:ää, JOKA OLI HIDAS. Taitoni olivat mitättömät, mutta verkkoyhteisö piti huolen. Sain valtavasti oppeja mm. protonilta ja hyperiltä.
+
+Laaduttomat komponentit, lukiolaisen pieni budjetti yhdistettynä osaamisen puuttumiseen on vaarallinen yhdistelmä. Eikä oikeastaan sekään, mutta minulla ei tuolloin ollut edes ajokorttia. Jouduin lähes kerran kuussa tekemää matkan Helsinkiin korjaamaan palvelinta. Matkarahat sain äidiltä tai isältä, yösijan sain sitten joltain tutulta Helsingin päästä (Kiitti sts!).
+
+Kotisivut.com:lta muutettiin pois jossain vaiheessa ja siirsin palvelimet Songin laitetilaan Pasilaan. Palvelin vietiin samaan kaappiin kahden kilpailijan kanssa Nodeta Oy ja DevNet Oy (nykyisiltä nimiltään). Kumpikaan eivät varmasti kokeneet nuoren lukiolaispojan yritystä millään tavalla kilpailijaksi. Varsinkin, kun taitoni olivat mitä oli. Nodetalta sain apua Mutrulta, Petrukselta ja Devastorilta. He olivat esikuvani, pieni poika unelmoi saavuttavansa joskus edes hitusen heidän osaamisestaan.
+
+Taidot kuitenkin kehittyivät ja opin kantapään kautta, miten näitä hommia ei pidä tehdä. Ihmettelen vieläkin, että mistä sain sen kaiken virran tähän? Rahallinen korvaus oli lähempänä 0 € kuin mitään muuta. Nyt 12 vuotta myöhemmin tajuan mitä sain. Sain kaiken sen mistä nyt nautin. Sain intohimon, ammatin ja elantoni. Yritin ja onnistuin.
